@@ -1,0 +1,25 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item"
+    android:layout_width="match_parent"
+    android:layout_height="50dp">
+
+    <TextView
+        android:id="@+id/note"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:layout_marginLeft="14dp"
+        android:fontFamily="@font/helveticaneuecyr_black"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/del_button"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="290dp"
+        android:background="@color/teal_700"
+        android:text="@string/made"
+        android:textSize="13sp" />
+
+</FrameLayout>

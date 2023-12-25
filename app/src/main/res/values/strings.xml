@@ -1,10 +1,5 @@
 <resources>
-    <string name="app_name">Список заметок</string>
-    <string name="numberOfProduct">шт.</string>
-    <string name="add">Добавить</string>
-    <string name="clear">Все ✅️</string>
-    <string name="Note">Заметка</string>
-    <string name="noteList">Список заметок</string>
-    <string name="made">✅️</string>
-    <string name="warning">Делу время потехе час</string>
+    <string name="app_name">Lab3</string>
+    <string name="add">Показать</string>
+    <string name="KeyWords">Введите запрос</string>
 </resources>
